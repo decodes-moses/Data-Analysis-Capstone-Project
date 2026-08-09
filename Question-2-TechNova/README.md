@@ -30,7 +30,7 @@ TechNova Retail needed to understand regional sales performance, product perform
 
 ## 📈 Dashboard
 
-![Power BI Dashboard](PowerBI/my capstone.pdf)
+![Power BI Dashboard](PowerBI/my capstone2.pdf)
 
 ## 📊 Excel Analysis
 
