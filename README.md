@@ -8,7 +8,7 @@ The projects demonstrate practical experience in **data cleaning, data analysis,
 
 ---
 
-## 📁 Project 1 — AmazingMart EU Sales Analysis
+## Project 1 — AmazingMart EU Sales Analysis
 
 **Objective:** Analyze AmazingMart's sales data to understand sales and profit performance across regions, countries, product categories, sub-categories, and shipping modes.
 
@@ -26,7 +26,7 @@ The projects demonstrate practical experience in **data cleaning, data analysis,
 
 ---
 
-## 📁 Project 2 — TechNova Sales & Employee Performance Analysis
+## Project 2 — TechNova Sales & Employee Performance Analysis
 
 **Objective:** Analyze sales and employee performance using data from Excel and MySQL and develop an interactive Power BI reporting solution.
 
@@ -46,18 +46,18 @@ The projects demonstrate practical experience in **data cleaning, data analysis,
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-- 📗 Microsoft Excel
-- 🗄️ MySQL
-- 📊 Power BI
-- 🧮 DAX
-- 🔄 Power Query
-- 🐙 GitHub
+- Microsoft Excel
+- MySQL
+- Power BI
+- DAX
+- Power Query
+- GitHub
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Data-Analytics-Capstone/
