@@ -1,1 +1,1 @@
-
+The AmazingMartEU2 dataset is commonly structured around ListOfOrders and OrderBreakdown, with fields such as Order ID, Order Date, Country, Segment, Ship Mode, Product Name, Sales, Profit, Quantity, Category, and Sub-Category
