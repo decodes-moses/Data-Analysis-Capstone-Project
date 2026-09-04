@@ -28,23 +28,23 @@ TechNova Retail needed to understand regional sales performance, product perform
 - Monthly Sales Trends
 - Regional Employee Drill-Through
 
-## 📈 Dashboard
+## Power BI Dashboard
 
-![Power BI Dashboard](PowerBI/my capstone2.pdf)
+![Power BI Dashboard](PowerBI/Final_Dashboard.pdf)
 
-## 📊 Excel Analysis
+## Excel Dashboard
 
-![Excel Dashboard](Excel/Excel_Dashboard.xlsx)
+![Excel Dashboard](Excel/Final%20Excel%20Dashboard.png)
 
-## 🗄️ SQL Analysis
+## SQL Analysis
 
 SQL was used to identify employees exceeding their targets, bonus-eligible employees, and the highest-performing region.
 
-## 📌 Key Insights
+## Key Insights
 
 Key findings from the analysis include regional sales performance, product contribution, employee target attainment, and monthly sales trends.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 TechNova-Sales-Employee-Performance-Analysis/
